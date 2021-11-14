@@ -1,7 +1,7 @@
 name: image_animation_devfest
 description: A new Flutter project.
 
-#repository: GIT_URL
+repository: https://github.com/LSambo02/package_demo_devfest.git
 
 version: 0.0.1
 homepage:
